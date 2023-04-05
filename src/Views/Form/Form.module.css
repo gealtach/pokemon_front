@@ -1,0 +1,87 @@
+.formBox {
+    margin-left: 600px;
+    width: 1000px;
+
+}
+.btnContainer {
+    width: 2200px;
+}
+
+.backBtn > button {
+    width: 150px;
+    height: 50px;
+}
+
+.subBtn {
+    width: 150px;
+    height: 60px;
+    font-size: 18px;
+    background:  	#FFFF00;
+    border: 1px solid #FFFF00;
+}
+
+.subBtn:hover {
+    width: 200px;
+    height: 100px;
+    font-size: 24px;
+    border: 1px solid #FFFF00;
+}
+
+.fH1 {
+    width: 1300px;
+    height: auto;
+    margin: 50px auto 50px 500px;
+}
+
+.divBox {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.row {
+    width: 300px;
+    margin: 10px;
+    font-size: 16px;
+}
+
+.row > input {
+    height: 30px;
+}
+
+.row > span {
+    display: block;
+}
+.types {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 20px;
+}
+
+.types > div {
+    width: 200px;
+    font-size: 20px;
+    border: 2px solid transparent;
+}
+
+.types > div:hover {
+    background: #F0E68C;
+    border: 2px solid #FFFF00;
+    border-radius: 5px;
+}
+
+.inpBox {
+    width: 20px;
+    height: 20px;
+    margin: 5px;
+
+} 
+
+.errorSpan {
+    color: red;
+}
+
+
+
+

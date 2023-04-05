@@ -1,0 +1,36 @@
+.container {
+    width: 2200px;
+}
+
+.name {
+    margin: 10px;
+}
+.logo {
+    width: 250px;
+}
+.stats {
+    width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 950px;
+    background: #F0E68C;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
+.stats > p, span {
+    width: 150px;
+    height: 30px;
+
+}
+
+.backBtn {
+    margin-top: 5%;
+    height: 70px;
+    width: 100px;
+    margin-left: 1050px;
+}
+
+.loading{
+    margin-top: 50px;
+    margin-left: 1050px;
+}

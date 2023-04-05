@@ -1,0 +1,21 @@
+.container {
+    width: 2200px;
+}
+
+.sBInp {
+    margin: 15px;
+    border: 2px solid #FFFF00;
+    height: 25px;
+    border-radius: 5px;
+}
+
+.sBtn {
+    background-color: transparent;
+    border: 1px solid #FFFF00;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.sBtn:hover {
+    background: #F0E68C;
+}

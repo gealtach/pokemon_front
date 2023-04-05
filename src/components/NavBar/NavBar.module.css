@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    width: 2200px;
+    height: 100px;
+    justify-content: space-evenly;    
+    
+}
+.btn{
+    margin-top: 30px;
+    width: 300px;
+    height: 50px;
+    border: 1px solid #FFFF00;
+    border-radius: 5px;
+    background: linear-gradient(180deg, rgba(255,156,0,1) 50%, rgba(254,153,0,1) 100%);
+}
+
+.btn:hover{
+    background:	#F0E68C;
+}
+
+a{
+    text-decoration: none;
+}

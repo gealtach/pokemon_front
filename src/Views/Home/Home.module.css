@@ -1,0 +1,33 @@
+.container{
+    margin-left: 25%;
+    margin-right: 5%;
+    width: 2200px;
+}
+
+.cardContainer{
+    width: 1500px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1%;
+    padding: 10px;
+    margin-left: 350px;
+} 
+
+select, button {
+    margin: 5px;
+    background: transparent;
+    border: 1px solid #FFFF00;
+    height: 30px;
+    border-radius: 5px;
+}
+
+select:hover {
+    background: #F0E68C;
+}
+
+button:hover {
+    background: #F0E68C;
+}
+
+
